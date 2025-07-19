@@ -106,4 +106,4 @@ The tool uses a multi-stage approach to extract text from maps:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file
